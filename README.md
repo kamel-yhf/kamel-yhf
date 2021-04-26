@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">Hi  👋, I'm Kamel </h1>
+<h2> I am a Junior fullstack Developper</h2>
 
-<!--
-**kamel-yhf/kamel-yhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏡 I'm from: **Nîmes (FRANCE)**
+- 📧 How to reach me: kamelyakhlef@hotmail.fr 
 
-Here are some ideas to get you started:
+<h2> Social Network</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👦 **Kamel YAKHLEF**
+
+* LinkedIn: [@kamelyakhlef](https://www.linkedin.com/in/kamel-yakhlef)
+* Twitter: [@kamelyhf](https://twitter.com/kamelyhf)
+* Github: [@kamel-yhf](https://github.com/kamel-yhf)
+
+<div align="center">
+  
+  ***
+<div align='center'>
+<h4>:computer: I’m currently working with...</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Mongodb-228B22?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+</div>
+
+***
+
+#
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kamel-yhf)](https://github.com/anuraghazra/github-readme-stats)
+</div>
