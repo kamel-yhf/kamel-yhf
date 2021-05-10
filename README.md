@@ -27,5 +27,5 @@
 
 #
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kamel-yhf)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kamel-yhf&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
