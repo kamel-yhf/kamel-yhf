@@ -1,5 +1,5 @@
 <h1 align="center">Hi  👋, I'm Kamel </h1>
-<h2> I am a Junior fullstack Developper</h2>
+<h2> Web and mobile developer Ionic, Angular, Nodejs 🚀📱🖥️</h2>
 
 - 🏡 I'm from: **Nîmes (FRANCE)**
 - 📧 How to reach me: kamelyakhlef@hotmail.fr 
