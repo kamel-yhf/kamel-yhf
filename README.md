@@ -1,16 +1,15 @@
 <h1 align="center">Hi  👋, I'm Kamel </h1>
 <h2> Web and mobile developer Ionic, Angular, Nodejs 🚀📱🖥️</h2>
 
-- 🏡 I'm from: **Nîmes (FRANCE)**
+- 🏡 I'm from: **FRANCE**
 - 📧 How to reach me: kamelyakhlef@hotmail.fr 
 
-<h2> Social Network</h2>
+<h2> Social Network </h2>
 
 👦 **Kamel YAKHLEF**
 
 * LinkedIn: [@kamelyakhlef](https://www.linkedin.com/in/kamel-yakhlef)
 * Twitter: [@kamelyhf](https://twitter.com/kamelyhf)
-* Github: [@kamel-yhf](https://github.com/kamel-yhf)
 
 <div align="center">
   
