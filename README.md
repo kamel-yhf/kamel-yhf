@@ -28,7 +28,7 @@
 
 #
 
-[![Anurag github stats](https://github-readme-stats.vercel.app/api?username=kamel-yhf&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag github stats](https://github-readme-stats.vercel.app/api?username=kamel-yhf&count_private=true&show_icons=true&theme=dracula&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Anurag github stats](https://github-readme-stats.vercel.app/api/top-langs?username=kamel-yhf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
