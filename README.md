@@ -9,7 +9,6 @@
 👦 **Kamel YAKHLEF**
 
 * LinkedIn: [@kamelyakhlef](https://www.linkedin.com/in/kamel-yakhlef)
-* Twitter: [@kamelyhf](https://twitter.com/kamelyhf)
 
 <div align="center">
   
