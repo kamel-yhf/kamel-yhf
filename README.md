@@ -1,33 +1,53 @@
-<h1 align="center">Hi  👋, I'm Kamel </h1>
-<h2> Web and mobile developer Ionic, Angular, Nodejs 🚀📱🖥️</h2>
+<h1 align="center">👋 Hi, I'm Kamel</h1>
+<h3 align="center">🚀 Web & Mobile Developer</h3>
 
-- 🏡 I'm from: **FRANCE**
-- 📧 How to reach me: kamelyakhlef@hotmail.fr 
-
-<h2> Social Network </h2>
-
-👦 **Kamel YAKHLEF**
-
-* LinkedIn: [@kamelyakhlef](https://www.linkedin.com/in/kamel-yakhlef)
-
-<div align="center">
-  
-  ***
-<div align='center'>
-<h4>:computer: I’m currently working with...</h4>
-
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<p align="center">
+  📍 France &nbsp;•&nbsp; 🅰️ Angular Dev &nbsp;•&nbsp; 📱 Mobile Dev &nbsp;•&nbsp; ⚡ Fullstack
 </p>
-</div>
 
-***
+---
 
-#
+## 🧠 About Me
 
-<!-- [![Anurag github stats](https://github-readme-stats.vercel.app/api?username=kamel-yhf&count_private=true&show_icons=true&theme=dracula&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Anurag github stats](https://github-readme-stats.vercel.app/api/top-langs?username=kamel-yhf&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-</div>
+💡 Passionate developer specialized in building **scalable Angular applications and cross-platform mobile apps**.
+
+* 🅰️ Strong expertise in **Angular (architecture, performance, best practices)**
+* 📱 Mobile development with **Ionic (iOS & Android)**
+* ⚙️ Backend development with **Node.js**
+* 🎯 Focus on **clean code, UX & maintainability**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,firebase,mongodb,mysql,androidstudio,apple" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+* 🚀 Building **modern mobile apps with Ionic**
+* 🧩 Creating **scalable Angular architectures**
+* ⚡ Improving performance & app UX
+* ☁️ Exploring backend best practices (Node.js)
+
+---
+
+## 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamel-yakhlef" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-kamel--yakhlef-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kamelyakhlef@hotmail.fr">
+    <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💬 <i>"Code. Build. Improve. Repeat."</i>
+</p>
