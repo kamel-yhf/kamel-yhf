@@ -28,7 +28,7 @@
 
 ## 🔥 Current Focus
 
-* 🚀 Building **modern mobile apps with Ionic**
+* 🚀 Building **modern apps**
 * 🧩 Creating **scalable Angular architectures**
 * ⚡ Improving performance & app UX
 * ☁️ Exploring backend best practices (Node.js)
