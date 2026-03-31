@@ -1,37 +1,52 @@
 <h1 align="center">👋 Hi, I'm Kamel</h1>
-<h3 align="center">🚀 Web & Mobile Developer</h3>
+<h3 align="center">🚀 Full-Stack Web & Mobile Developer</h3>
 
 <p align="center">
-  📍 France &nbsp;•&nbsp; 🅰️ Angular Dev &nbsp;•&nbsp; 📱 Mobile Dev &nbsp;•&nbsp; ⚡ Fullstack
+  📍 France &nbsp;•&nbsp; 🅰️ Angular &nbsp;•&nbsp; ⚙️ NestJS &nbsp;•&nbsp; 📱 Mobile Apps
 </p>
 
 ---
 
 ## 🧠 About Me
 
-💡 Passionate developer specialized in building **scalable Angular applications and cross-platform mobile apps**.
+💡 Passionate developer focused on building **modern, scalable and high-performance applications**.
 
-* 🅰️ Strong expertise in **Angular (architecture, performance, best practices)**
-* 📱 Mobile development with **Ionic (iOS & Android)**
-* ⚙️ Backend development with **Node.js**
-* 🎯 Focus on **clean code, UX & maintainability**
+I specialize in **Angular ecosystems and cross-platform mobile development**, with a strong interest in **clean architecture, performance optimization and user experience**.
+
+- 🅰️ Advanced experience with **Angular (architecture, performance, best practices)**
+- 📱 Mobile development using **Ionic (iOS & Android)**
+- ⚙️ Backend development with **Node.js & NestJS**
+- 🎯 Focus on **clean code, maintainability and great UX**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,nodejs,firebase,mongodb,mysql,androidstudio,apple" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,nestjs,nodejs,prisma,firebase,mongodb,mysql,postgres,androidstudio,apple,git" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Angular SaaS Dashboard**  
+Modern dashboard with scalable architecture and advanced UI.
+
+🔹 **Mobile Application (Ionic)**  
+Cross-platform mobile app built for Android & iOS.
+
+🔹 **Node.js / NestJS API**  
+RESTful API with authentication, modular architecture and scalability.
 
 ---
 
 ## 🔥 Current Focus
 
-* 🚀 Building **modern apps**
-* 🧩 Creating **scalable Angular architectures**
-* ⚡ Improving performance & app UX
-* ☁️ Exploring backend best practices (Node.js)
+- 🚀 Building **modern full-stack applications**
+- 🧩 Designing **scalable Angular architectures**
+- ⚡ Improving **performance and user experience**
+- ☁️ Exploring **backend best practices with NestJS**
 
 ---
 
